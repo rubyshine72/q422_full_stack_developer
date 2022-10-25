@@ -107,7 +107,7 @@
       setTimeout(() => {
         this.parent.removeChild(this.dialog);
         delete this;
-      }, 800);
+      }, 600);
     }
   }
 })();
